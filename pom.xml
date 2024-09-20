@@ -8,19 +8,6 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<repositories>
-		<repository>
-			<id>inin-maven-mirror</id>
-			<name>ININ Maven Mirror</name>
-			<url>http://purecloud.jfrog.io/purecloud/inin-maven-mirror</url>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-		</repository>
-	</repositories>
 	<groupId>com.example</groupId>
 	<artifactId>demo-int</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
